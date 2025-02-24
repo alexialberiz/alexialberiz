@@ -1,7 +1,7 @@
 ## Olá! Sou Alexia, prazer em conhecer você. 🤍
 
 💻 Profissional de TI desde 2020, com foco em QA e desenvolvimento.
-##
+
 <div style="display: inline_block">
  <a href="https://github.com/alexialberiz">
  <img altura="150em" src="https://github-readme-stats.vercel.app/api?username=alexialberiz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
