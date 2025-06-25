@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" alt="Boas-vindas" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" alt="Coding Girl">
+</p>
 
 ## Olá! Sou Alexia, prazer em conhecer você 🤍
 
@@ -7,7 +9,7 @@
 
 ---
 
-<div align="center" style="display: inline_block">
+<div align="center">
  <a href="https://github.com/alexialberiz">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alexialberiz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexialberiz&layout=compact&langs_count=7&theme=midnight-purple">
