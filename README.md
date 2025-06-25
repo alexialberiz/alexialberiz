@@ -1,13 +1,17 @@
-<h2 align="left">Olá! Sou Alexia, prazer em conhecer você 🤍</h2>
-
-<p align="left">
-💻 Profissional de TI desde 2020, com foco em QA e desenvolvimento.<br>
-🎯 Apaixonada por tecnologia, testes, código limpo e impacto positivo!
-</p>
-
-<p align="right">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="160px" alt="Girl Coding">
-</p>
+<table>
+  <tr>
+    <td align="left" width="60%">
+      <h2>Olá! Sou Alexia, prazer em conhecer você 🤍</h2>
+      <p>
+        💻 Profissional de TI desde 2020, com foco em QA e desenvolvimento.<br>
+        🎯 Apaixonada por tecnologia, testes, código limpo e impacto positivo!
+      </p>
+    </td>
+    <td align="right" width="40%">
+      <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="160px" alt="Girl Coding">
+    </td>
+  </tr>
+</table>
 
 ---
 
