@@ -43,13 +43,14 @@
 
 <div> 
   <a href="https://instagram.com/alexialberiz" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23800020?style=for-the-badge&logo=instagram&logoColor=white&labelColor=330010&rounded=true" />
+    <img src="https://img.shields.io/badge/Instagram-%23800020?style=for-the-badge&logo=instagram&logoColor=white&labelColor=330010&rounded=true" />
   </a>
   <a href="mailto:alexiaalberiz17@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23800020?style=for-the-badge&logo=gmail&logoColor=white&labelColor=330010&rounded=true" />
+    <img src="https://img.shields.io/badge/Gmail-%23800020?style=for-the-badge&logo=gmail&logoColor=white&labelColor=330010&rounded=true" />
   </a>
   <a href="https://www.linkedin.com/in/alexia-alberiz/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%23800020?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=330010&rounded=true" />
+    <img src="https://img.shields.io/badge/LinkedIn-%23800020?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=330010&rounded=true" />
   </a>   
 </div>
+
 
