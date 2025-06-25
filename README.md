@@ -1,17 +1,13 @@
-<table>
-  <tr>
-    <td align="left" width="60%">
-      <h2>Olá! Sou Alexia, prazer em conhecer você 🤍</h2>
-      <p>
-        💻 Profissional de TI desde 2020, com foco em QA e desenvolvimento.<br>
-        🎯 Apaixonada por tecnologia, testes, código limpo e impacto positivo!
-      </p>
-    </td>
-    <td align="right" width="40%">
-      <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="160px" alt="Girl Coding">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="160px" alt="Girl Coding">
+</p>
+
+<h2 align="center">Olá! Sou Alexia, prazer em conhecer você 🤍</h2>
+
+<p align="center">
+💻 Profissional de TI desde 2020, com foco em QA e desenvolvimento.<br>
+🎯 Apaixonada por tecnologia, testes, código limpo e impacto positivo!
+</p>
 
 ---
 
@@ -50,4 +46,9 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href = "mailto:alexiaalberiz17@gmail.com" target="_blank">
-    <img src="https://img.s
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/alexia-alberiz/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>   
+</div>
