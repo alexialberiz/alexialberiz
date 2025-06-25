@@ -52,3 +52,4 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%23800020?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=330010&rounded=true" />
   </a>   
 </div>
+
