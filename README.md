@@ -9,6 +9,9 @@
 ☕ Apaixonada em construir soluções eficientes, aprender continuamente e transformar ideias em código.
 
 <p>
+  <a href="mailto:alexiaalberiz07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-7B2CBF?style=flat&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/alexia-alberiz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-7B2CBF?style=flat&logo=linkedin&logoColor=white" />
   </a>
