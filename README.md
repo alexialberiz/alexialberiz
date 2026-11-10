@@ -45,17 +45,13 @@
 </div>
 
 ---
-
 ### 🌐 Conecte-se comigo:
 
 <div>
   <a href="mailto:alexiaalberiz17@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%237B3FBF?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-%237B3FBF?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 12px;" />
   </a>
   <a href="https://www.linkedin.com/in/alexia-alberiz/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%237B3FBF?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/alexialberiz" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%237B3FBF?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-%237B3FBF?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 12px;" />
   </a>
 </div>
