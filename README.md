@@ -2,55 +2,60 @@
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="160px" alt="Girl Coding">
 </p>
 
-<h2 align="center">Olá! Sou Alexia, prazer em conhecer você.</h2>
+<h2 align="center">Olá! Sou Alexia, prazer em conhecer você. 👋</h2>
 
 <p align="center">
-💻 Estudante de TI desde 2020, com foco em desenvolvimento. Atualmente focada em Java <br>
-🎯 Apaixonada por tecnologia, e impacto positivo!
+  💻 Desenvolvedora de software em formação, com experiência em desenvolvimento e evolução de sistemas.<br>
+  ☕ Atualmente focada em Java, Spring Boot e desenvolvimento Backend.<br>
+  🚀 Interessada em construir soluções eficientes, aprender continuamente e transformar ideias em código.
 </p>
 
 ---
 
 <div align="center">
- <a href="https://github.com/alexialberiz">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alexialberiz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexialberiz&layout=compact&langs_count=7&theme=midnight-purple" />
- </a>
+  <a href="https://github.com/alexialberiz">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=alexialberiz&show_icons=true&theme=midnight-purple&include_all_commits=true&hide_border=true" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexialberiz&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" />
+  </a>
 </div>
 
 ---
 
 ### 🚀 Tecnologias que uso e estudo:
 
-<div style="display: inline_block">
+<div align="center">
+
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" />
+
 </div>
 
 ---
 
 ### 🌐 Conecte-se comigo:
 
-<div> 
-  <a href="https://instagram.com/alexialberiz" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%237B3FBF?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:alexiaalberiz17@gmail.com" target="_blank">
+<div>
+  <a href="mailto:alexiaalberiz17@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%237B3FBF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/alexia-alberiz/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%237B3FBF?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>   
+  </a>
+  <a href="https://github.com/alexialberiz" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%237B3FBF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
-
-
