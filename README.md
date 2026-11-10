@@ -37,13 +37,3 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" />
 </div>
-
----
-
-### 🌐 Conecte-se comigo:
-
-<div>
-  <a href="mailto:alexiaalberiz07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-7B2CBF?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</div>
